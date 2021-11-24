@@ -149,10 +149,10 @@ export default {
   name: "App",
   data() {
     return {
-      first_name: "hello",
-      last_name: "hello",
-      email: "hello@hello.com",
-      mobile: "454545",
+      first_name: "",
+      last_name: "",
+      email: "",
+      mobile: "",
       allow_mobile: false,
     };
   },
